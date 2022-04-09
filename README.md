@@ -24,7 +24,15 @@
 >```Build a man a fire, and he will be warm for a day. Set a man on fire, and he will be warm for the rest of his life.```
 
 <h1 style="color: black" >Languages and tools🔨🔨🔨:</h1>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="c++" width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="c++" width="40" height="40"></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"></td>
+<td><img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width="60" ></td>
+<td><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="40"</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"</td>
+<td><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"  width = "40" </td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"</td>
+ </tr></table>
 
 <h1 style="color: black" >Let's connect🐻‍❄️🐻‍❄️:</h1>
 
