@@ -32,6 +32,7 @@
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"</td>
 <td><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"  width = "40" </td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"</td>
+<td><img src="https://www.pinclipart.com/picdir/big/269-2691398_python-logo-clipart-transparent-background-png-download.png" width="40"</td>
  </tr></table>
 
 <h1 style="color: black" >Let's connect🐻‍❄️🐻‍❄️:</h1>
