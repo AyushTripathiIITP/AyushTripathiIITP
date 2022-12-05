@@ -13,7 +13,7 @@
 <h1 style="color: black" >More about myself😊:</h1>
 <img src="https://miro.medium.com/max/700/0*9f5uMrKMjLbzEf7q.png"   align= "right" ; height= 50>
 
-- Undergraduate at IIT Patna in Mechanical Engineering Dept.
+- Undergraduate at IIT Patna in Electrical and Electronics Engineering Dept.
 - I'm quick learner🤓
 - I love to solve problems and is actively involved in Competetive programming😎.
 - I have a creative mind, so I aspire to become a web/android developer😊
