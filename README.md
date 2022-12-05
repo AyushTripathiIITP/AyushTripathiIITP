@@ -6,7 +6,7 @@
 
 
 
-<h4 align="center" style="color: black">This is Ayush Tripathi, I am a undergraduate persuing my Mechanical Engineering from IIT Patna. I am a ardent learner and quick adaptibility. I am also a Finance Enthusiast and loves to trade in stocks and ventures.
+<h4 align="center" style="color: black">This is Ayush Tripathi, I am a undergraduate persuing my Electrical and Electronics Engineering from IIT Patna. I am a ardent learner and quick adaptibility. I am also a Finance Enthusiast and loves to trade in stocks and ventures.
 
 ***
 <br>
@@ -18,7 +18,7 @@
 - I love to solve problems and is actively involved in Competetive programming😎.
 - I have a creative mind, so I aspire to become a web/android developer😊
 - Reach me at **ayush.tripathiiitp@gmail.com** 
-- officially at **ayush_2101me19@iitp.ac.in**
+- officially at **ayush_2101ee90@iitp.ac.in**
 - Self Taught programmer🤓🤓🤓
 - Life Quote :-
 >```Build a man a fire, and he will be warm for a day. Set a man on fire, and he will be warm for the rest of his life.```
